@@ -1,0 +1,6 @@
+@import "./base.css";
+
+@font-face {
+  font-family: 'FEN';
+  src: url(../font/eng.ttf);
+}
